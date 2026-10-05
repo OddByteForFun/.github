@@ -17,7 +17,7 @@ Vous trouverez notamment les projets en cours de développement :
 |---------|-------|-------|
 | core | Motorola 68000 | 🟡 Développement |
 | core | Zilog 80 | 🟡 Développement |
-| core | LS86xxx Series | 🟡 Développement |
+| core | LS86xxx Series | 🟢 1.0.0-beta.1 |
     
 Avec comme objectifs :
 - Emulateur megadrive
