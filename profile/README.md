@@ -8,20 +8,39 @@ S'amuser <3
 
 ## 🚀 Nos projets 8/16 bits
 
-Vous trouverez notamment les projets en cours de développement :
-  - Cpu Motorola 68000 
-  - Cpu Zilog 80  
-  - Cpu LS86xxx Series
+### CPU
 
-| Categorie | Projet | État |
+Cette liste s'appuie sur la difficulté supposée de ces architectures.
+
+#### Niveau 0 :
+
+| Catégorie | Projet | État |
 |---------|-------|-------|
-| core | Motorola 68000 | 🟡 Développement |
-| core | Zilog 80 | 🟡 Développement |
-| core | LS86xxx Series | 🟢 1.0.0-beta.1 |
+| core | MOS Technology 6502 | :red_circle: non débuté |
+| core | Sharp SM83 | :red_circle: non débuté |
+| core | Sanyo LS86K87 | 🟢 1.0.0-beta.1 |
+
+#### Niveau 1 :
+
+| Catégorie | Projet | État |
+|---------|-------|-------|
+| core | Hudson Soft HuC6280 | :red_circle: non débuté |
+| core | Zilog 80 | :red_circle: non débuté |
+| core | NEC V30MZ  | :red_circle: non débuté |
+
+#### Niveau 2 :
+
+| Catégorie | Projet | État |
+|---------|-------|-------|
+| core | Motorola 68000 | 🟡 en développement |
+
+
+### Console
     
-Avec comme objectifs :
-- Emulateur megadrive
-- Emulateur VMU
+| Catégorie | Projet | État |
+|---------|-------|-------|
+| core | Megadrive | :red_circle: non débuté |
+| core | VMU | 🟡 en développement |
 
 ## Technologies utilisées
 
