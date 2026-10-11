@@ -43,10 +43,6 @@ Cette liste s'appuie sur la difficulté supposée de ces architectures.
 | core | Megadrive | :red_circle: non débuté |
 | core | VMU | 🟡 en développement |
 
-## 🔍 Mots-clés
-
-Sanyo LC86K87 · Dreamcast VMU · Visual Memory Unit · émulateur · emulator ·
-CPU 8 bits · 8-bit · Zig · Sega · homebrew
 
 ## Technologies utilisées
 
