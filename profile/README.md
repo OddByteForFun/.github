@@ -34,7 +34,7 @@ Cette liste s'appuie sur la difficulté supposée de ces architectures.
 
 | Catégorie | Projet | État |
 |-----------|--------|------|
-| core | Motorola 68000 | 🟡 en développement |
+| core | [Motorola 68000](https://github.com/OddByteForFun/m68k) | 🟡 en développement |
 
 ### Console
 
