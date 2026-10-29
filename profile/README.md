@@ -41,7 +41,7 @@ Cette liste s'appuie sur la difficulté supposée de ces architectures.
 | Catégorie | Projet | État |
 |-----------|--------|------|
 | core | Megadrive | :red_circle: non débuté |
-| core | VMU | 🟡 en développement |
+| console | [VMU](https://github.com/OddByteForFun/VisualMemoryUnitEmulateur) | 🟢 1.0.0-beta.1 |
 
 
 ## Technologies utilisées
