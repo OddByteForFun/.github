@@ -42,6 +42,7 @@ Cette liste s'appuie sur la difficulté supposée de ces architectures.
 |-----------|--------|------|
 | core | Megadrive | :red_circle: non débuté |
 | console | [VMU](https://github.com/OddByteForFun/VisualMemoryUnitEmulateur) | 🟢 1.0.0-beta.1 |
+| console| [Oric](https://github.com/OddByteForFun/z6502)|🟢 1.0.0-beta.1|
 
 
 ## Technologies utilisées
